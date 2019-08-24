@@ -1,1 +1,1 @@
-# Aspell [![Docker hub](https://img.shields.io/docker/pulls/jnonino/aspell.svg)](https://hub.docker.com/r/jnonino/aspell/)
+# Aspell [![Docker hub](https://img.shields.io/docker/pulls/jnonino/aspell.svg)](https://hub.docker.com/r/jnonino/aspell/) [![](https://img.shields.io/docker/build/jnonino/aspell.svg)](https://hub.docker.com/r/jnonino/aspell/)
