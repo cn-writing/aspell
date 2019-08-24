@@ -1,4 +1,5 @@
-FROM alpine
+FROM ubuntu
 LABEL maintainer="Julian Nonino <noninojulian@gmail.com>"
 
-RUN apk --no-cache add aspell
+RUN apt-get update && \
+    apt-get install -y aspell*
