@@ -1,4 +1,4 @@
-FROM ubuntu
+FROM ubuntu:20.04
 LABEL maintainer="Julian Nonino <noninojulian@gmail.com>"
 
 RUN apt-get update && \
